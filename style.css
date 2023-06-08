@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 50px;
+    color: aquamarine;
+}
+.image{
+    width: 300;
+    height: 150;
+    margin-left: 20rem;
+}
+div.image2{
+    position:absolute;
+    margin-left: 55rem;
+    bottom: 220px;
+    
+}
